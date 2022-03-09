@@ -1,0 +1,7 @@
+Xây dựng layout với thẻ div:
+* Xác định độ rộng của trang
+* Tính số thẻ div sử dụng trong (Số thẻ DIV cho bộ khung)
+* Code HTML cho bộ khung
+* Code CSS : 
+    ++ Code từ trên xuống --> Từ ngoài vào
+    ++ Khi dựng khối với FLOAT --> thuộc tính width là quan trọng nhất
